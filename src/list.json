@@ -1,0 +1,94 @@
+[
+  {
+    "student": "Student1",
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correct_answer": "Paris",
+        "user_answer": "Paris"
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Jupiter", "Mars", "Venus"],
+        "correct_answer": "Jupiter",
+        "user_answer": "Mars"
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["Shakespeare", "Hemingway", "Tolkien", "Dickens"],
+        "correct_answer": "Shakespeare",
+        "user_answer": "Shakespeare"
+      }
+    ]
+  },
+  {
+    "student": "Student2",
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correct_answer": "Paris",
+        "user_answer": "Paris"
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Jupiter", "Mars", "Venus"],
+        "correct_answer": "Jupiter",
+        "user_answer": "Jupiter"
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["Shakespeare", "Hemingway", "Tolkien", "Dickens"],
+        "correct_answer": "Shakespeare",
+        "user_answer": "Shakespeare"
+      }
+    ]
+  },
+  {
+    "student": "Student3",
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correct_answer": "Paris",
+        "user_answer": "Paris"
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Jupiter", "Mars", "Venus"],
+        "correct_answer": "Jupiter",
+        "user_answer": "Jupiter"
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["Shakespeare", "Hemingway", "Tolkien", "Dickens"],
+        "correct_answer": "Shakespeare",
+        "user_answer": "Shakespeare"
+      }
+    ]
+  },
+  {
+    "student": "Student4",
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correct_answer": "Paris",
+        "user_answer": "Paris"
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Jupiter", "Mars", "Venus"],
+        "correct_answer": "Jupiter",
+        "user_answer": "Jupiter"
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["Shakespeare", "Hemingway", "Tolkien", "Dickens"],
+        "correct_answer": "Shakespeare",
+        "user_answer": "Shakespeare"
+      }
+    ]
+  }
+]
